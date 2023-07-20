@@ -10,6 +10,12 @@
 
 `git status` - Проверяет Файл на commit
 
+git clone "сылка"
+
+git commit -m '' - 
+git add добавляет изменения
+
+
 ---
 
 1. сгенерировать SSH ключ `ssh-keygen`
@@ -18,10 +24,6 @@
 
 ---
 
-git clone "сылка"
-
-git commit -m '' - 
-git add добавляет изменения
 
 
 git push - отправить репозиторй в гитхаб
